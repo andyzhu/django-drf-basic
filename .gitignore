@@ -1,0 +1,5 @@
+.django-drf/
+.vscode/
+__pycache__/
+*/*migrations/*.py
+*.sqlite3
